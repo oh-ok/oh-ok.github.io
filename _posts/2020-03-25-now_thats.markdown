@@ -10,11 +10,10 @@ This morning I was browsing Amazon and I was recommended something that seemed p
 
 I was blown away by the fact that this album cover is actually... to put it bluntly...  designed! If you've never seen a "Now That's What I Call Music!" cover, they all look exactly the same, and they have for the last 30-ish years. It seems they decided at around 1991 (for "Now...! 20") that they would stick to the current "3D text" style that we see today, which would be fine if the images on the front of current day albums weren't so violent to your eyes. The cover shown above in Now...! 5, is a very very 80's cover, the type, the shapes, the colours, it screams 80s (which is likely why they're reissuing it soon as 80s nostialgia is pretty popular right now). There are some good/interesting design choices, like their pig DJ mascot in general looks good, the interesting slanted type composition which is reminiscent of some Bauhaus and constructivist posters, the way that each individual artist listed on the pig's shirt is in it's own distinct typeface, giving the cover personality and credit to the artists who made the music, and they've managed to do that without it looking overly messy! This cover is very very good at representing the songs in the album.
 
-**(NEED TO MANUALLY ADD EACH IMAGE)**
-"Now...! 20", by EMI & Virgin
-"Now...! 103", by EMI & Virgin
-"Now...! 104", by EMI & Virgin
-"Now...! 105", by EMI & Virgin
+![Now 20](assets/posts/now20.jpg)
+![Now103](assets/posts/now103.jpg)
+![Now104](assets/posts/now104.jpg)
+![Now105](assets/posts/now105.jpg)
 
 Even though some of the main elements are the same between the album covers, the 3D type for example, the original Now...! 20 cover still feels far better designed because it is respecting the viewier/listener in a way that the current day ones just don't. The Now...! 20 album was released in 1991, so using a custom 3D render in this way would've been considered quite experimental for an album cover of that time, and on top of that they're using a glass-like material in the render, adding just enough complexity to the image to make it interesting, with enough negative space in the background to not overload your eyes. The visual heirarchy is clear: you know exactly what you need to focus on first, the "20" type, it is biggest and brightest, then the "NOW" as it's the next biggest, brightest and has slightly more detail, and so on. That said it is still clearly a compilation album, there are no themes to communicate other than "pop music", and it doesn't try to communicate anything else, the music itself is pure aesthetic, just like the cover on the sleeve. They also don't seem to try and represent the music on the album like they did in Now...! 5, which is interesting.
 

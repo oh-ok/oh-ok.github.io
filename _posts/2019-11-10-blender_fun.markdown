@@ -57,4 +57,8 @@ Overall this was was a fun little project to work on, looking at the final thing
 
 I've also made some other stuff in Blender as I've become quite comfortable with it, I'm currently using it to mock up stuff for my current uni project where I'm tackling the task of visually representing infinity...
 
-**(I AM STILL MIGRATING STUFF I WILL WORRY ABOUT THESE IMAGES AFTER ALL THE POSTS ARE IN PLACE)**
+![](assets/posts/stance_book_mirror.png)
+
+<iframe width="650" height="430" src="https://www.youtube.com/embed/wjBmzWBa8OY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="650" height="430" src="https://www.youtube.com/embed/sZXMt8gDk2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
