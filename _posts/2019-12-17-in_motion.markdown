@@ -4,4 +4,30 @@ title: 4096 - Nostalgia in Motion
 date: '2019-12-17T00:00:00+00:00'
 permalink: in_motion
 ---
-I found this video on YouTube the other day, just thought I'd share it because its quite beautiful. It's a very simple but effective motion graphics rendition of the creator's favourite blank VHS tape boxes, like these: I mean, he's right, they are beautiful. I like the creator's complete focus on making the transitions between the cassette tapes interesting and tactile (not sure if thats the right way to say that but I'll go with it), s/he seems to relate every animation to something physical, taking objects in the frame and imagining them in motion rather than just being lazy and having a stock "appearing" animation for every element like I normally do. Both the visuals and the music really generate a great sense of nostalgia, even though I've never really had much experience with blank VHS' which is quite interesting. There's something about the imagery of the VHS boxes that just screams pre-2000's in every way, it really sums up the 80s and 90s as an icon very well in general. It's just so smooth and well made in almost every aspect, so I took a dive into their channel and found that I'd encountered their stuff before! They're all motion graphic-y videos with a heavy emphesis on nostalgia and recent history  (specifically technology). I'd come across this video before a while ago where s/he recreated a bunch of popular idents/titles and transitioned them in really smooth and creative ways: Again, a really great piece of motion graphics, and a great excercise to take existing idents and recreating them and putting a spin on it. I actually did something similar back on Halloween - Vsauce (an educational YouTube channel) had a special Halloween episode of his show, Mind Field, and I remixed the first few seconds of the title sequence: I can see a lot of similarities between my work right now and his/her older work, e.g. the Nokia History video, where the use of colour and transitions are a little basic and the video is generally less interesting, looking back at my first year animation and the motion graphics work I've just done, I'm realising my work is boring in a similar way. Anyway, the creator is just generally really good at making this stuff so go and check out the rest of his stuff, he has an "evolution of" series where he just shows the evolution of some kind of tech/products, its worth a sub.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9DfSCk-6Ko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I found this video on YouTube the other day, just thought I'd share it because its quite beautiful. It's a very simple but effective motion graphics rendition of the creator's favourite blank VHS tape boxes, like these: 
+
+![VHS1](assets/posts/vhs1.jpg)
+
+![VHS2](assets/posts/vhs2.jpg)
+
+![VHS3](assets/posts/vhs3.jpg)
+
+I mean, he's right, they are beautiful. I like the creator's complete focus on making the transitions between the cassette tapes interesting and tactile (not sure if thats the right way to say that but I'll go with it), s/he seems to relate every animation to something physical, taking objects in the frame and imagining them in motion rather than just being lazy and having a stock "appearing" animation for every element like I normally do. Both the visuals and the music really generate a great sense of nostalgia, even though I've never really had much experience with blank VHS' which is quite interesting. There's something about the imagery of the VHS boxes that just screams pre-2000's in every way, it really sums up the 80s and 90s as an icon very well in general. 
+
+It's just so smooth and well made in almost every aspect, so I took a dive into their channel and found that I'd encountered their stuff before! 
+
+They're all motion graphic-y videos with a heavy emphesis on nostalgia and recent history  (specifically technology). I'd come across this video before a while ago where s/he recreated a bunch of popular idents/titles and transitioned them in really smooth and creative ways: 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/33BT7KIZwTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Again, a really great piece of motion graphics, and a great excercise to take existing idents and recreating them and putting a spin on it. I actually did something similar back on Halloween - Vsauce (an educational YouTube channel) had a special Halloween episode of his show, Mind Field, and I remixed the first few seconds of the title sequence: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6Bgk9KFsWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I can see a lot of similarities between my work right now and his/her older work, e.g. the [Nokia History video](https://www.youtube.com/watch?v=e5ioO5iIM90), where the use of colour and transitions are a little basic and the video is generally less interesting, looking back at my first year animation and the motion graphics work I've just done, I'm realising my work is boring in a similar way. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMB6exbaH_I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Anyway, the creator is just generally really good at making this stuff so go and check out the rest of his stuff, he has an "evolution of" series where he just shows the evolution of some kind of tech/products, its worth a sub.
