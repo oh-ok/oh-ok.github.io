@@ -21,6 +21,8 @@ Part of why the original games were great is because it encouraged being sneaky 
 
 On a more positive note, the environment design is absolutely gorgeous, I really can't show you how great this game looks without you playing it, but the setting they chose is perfect and their execution of it is flawless. The world truly does feel real and lived in, with NPC's that actually do things in the world, a day/night cycle that actually has an impact on what's happening, Ubisoft has created an actual world here. You may have to find people for a mission and depending on what time it is they could be doing a number of things in a number of places. It's pretty great. Every named person (of which there are a lot) has clearly had a lot of thought put into them and what their lives would be like. It is such a great and incredibly detailed depiction of late Ancient Egypt. It was actually weird to see Alexandria for the first time, in my mind Ancient Egypt was nowhere near the Roman Empire timeline-wise, but in reality, they actually had a lot of political tensions and Origins depicts those well too. 
 
+![Assassin's Creed Origins Screenshot 2](https://cdn.mos.cms.futurecdn.net/kt3NRchRAGJJrMaquWRFPK.jpg)
+
 Anyway, Origins is lucky it has a cheats option, otherwise, I would call this game unplayable (but it is absolutely gorgeous).
 
 **Assassin's Creed: Origins is available on Uplay/Steam for PC, Playstation 4 and Xbox One and is probably worth playing if you're interested in Ancient Egypt.**
