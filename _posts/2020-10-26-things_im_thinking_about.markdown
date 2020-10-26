@@ -1,0 +1,24 @@
+---
+layout: post
+title: A Plague Tale Innocence & Thoughts About Things (Because I Have Those Sometimes)
+date: '2020-10-26T00:00:00+00:00'
+permalink: plague_talk
+---
+# A Plague Tale: Innocence by Asobo Studio
+I just played through A Plague Tale: Innocence and it was pretty good... to begin with. I liked the intro a lot, it really hooked me in, I liked the characters of Amicia and Hugo De Rune and the setting of medieval France is unique and well executed initially. As the story went on however I found that while the game succeeds in making you feel like the odds are stacked against you, it's "instant-fail-states" would prove to be the bane of my existence. See, the majority of A Plague Tale's gameplay is stealth and puzzle solving, and it's quite unforgiving once you've been found out, i.e. as soon as you slip up once, it's kind of over and you have to restart from the last checkpoint. Very frustrating stuff. 
+
+That got me thinking about how some other games will actually bend the rules to be a bit more accommodating to players and reduce frustration. Things like the infamous "coyote time" in platformer games, where the player has extra time to jump and move after they've technically fallen off the platform, and how in some adventure games the game will give you extra health without saying so to help you through the level, or how in Mario Kart you're more likely to get powerful power-ups if you're near the back. Yeah, A Plague Tale has none of that stuff. That doesn't mean its a bad game though either, difficult games can be fun, hence why From Software's Dark Souls games are so prolific, but in Dark Souls there aren't very many instant-fail states, your death is quick, and may still feel a bit bull-shitty, but it is almost never instant. 
+
+![](https://cdn.wccftech.com/wp-content/uploads/2017/02/A_Plague_Tale-Innocence-01.jpg)
+
+With that said, A Plague Tale isn't even aiming to be an ultra difficult "Souls-like", it's just trying to tell it's relatively interesting narrative, that's the hook of the game. It even makes sense from a narrative perspective for there to be instant-fail states, you're just a few kids with a slingshot fighting armed guards with crazy weapons and armour, but at the same time its the developers and designers who created the conditions for that to be the case in the first place. I might be in the wrong here, but if the goal is to tell a linear story, then don't make it painful to play through the story. Nothing kills pacing faster restarting a level over and over again. It completely takes the player away from the story and focuses their mind on the frustrating nature of the gameplay, leaving a bad taste in the player's mouth. Just on the spot thinking of solutions, they could have had a mechanic where if you're caught, instead of just murdering you, the guards could've attempted to take you away, giving you an opportunity to wrestle away and hide again, it may not be "realistic", but its also not entirely realistic for guards to not hear three kids crawling right behind them, just like its not realistic that "coyote-time" exists. 
+
+Anyway, A Plague Tale: Innocence is pretty good. The rats are cool, would recommend. :)
+
+<iframe src="https://store.steampowered.com/widget/752590/" frameborder="0" width="646" height="190"></iframe>
+
+# Other Things
+
+I've found it really hard to keep motivated to do uni work at the moment. I keep feeling like I'm wayyyy out of my depth this year, more so than the last few years I've been here. It feels like I just can't keep up with everyone else, like I'm stuck at all time, and nothing really interests me. Just generally apathetic to everything, and especially apathetic to the "design world". The work that my tutors highlight are so dull and feel quite disingenuous, but maybe that's just because I'm not in the know on those people. But it definitely feels like this is an "art" course, if you know what I mean. I know I'm not a particularly creative person, but that anxiety is amplified so much when I look around and I'm constantly seeing everyone coming up with all these ideas all the time like it's nothing and I'm sitting there with my A4 sketchbook with a blank spread in front of me. This was especially apparent last year when we had a design sprint and part of that was to do crazy 8s, and I was just struggling the whole time to fill up one sheet, when the task was to come up with a sheet every minute or so. The sheer volume of ideas that people came up with was insane, and the speed they came up with them is ridiculous too. Just out of nowhere. And then later, in another project when we were told to "create a unique business startup" like that was just a simple thing to do. I know I can't give up, but I don't think I've ever been less motivated for this course. 
+
+I know I probably shouldn't post this to my public facing blog or whatever, but I just wanna get it off my chest. 
