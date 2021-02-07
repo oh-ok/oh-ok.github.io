@@ -1,5 +1,5 @@
 # Site settings
-title: Ooga Booga Blog # site title
+title: Kieran Geary's Design Blog & Portfolio # site title
 description: >- # site description
   I'm Kieran, this is a blog about Graphic Design, Game Design and Film (as well as whatever else I'm liking at the time)
 lang: en-GB # default lang
@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://pangolin.dog/" #
+url: "https://kierans.page/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
