@@ -34,8 +34,10 @@ Apart from that, it's going pretty good! The brief isn't to make two fully funct
 
 Like I mentioned earlier, I made a custom shader, which was an **extremely** fun experience 
 ![](https://i.imgur.com/EEnPFEa.png)
+
 ![](https://i.imgur.com/sWig6gy.png)
 ^ Standard Lighting
+
 ![](https://i.imgur.com/x2qsqci.png)
 ^ Custom Shader (so far)
 
@@ -55,3 +57,18 @@ I have 2 other briefs happening too!
 
 ![](https://i.imgur.com/CQunGJ7.jpg)
 ^ Opening screenshot (so far, I have yet to properly model Laika)
+
+# Quick Update!
+I just did something I'm pretty proud of! Because my shader is based on the 'Unlit' preset, it did not natively support Normal/Displacement mapping, however (at least in terms of lighting, I've managed to engineer my own solution!)
+
+![](https://i.imgur.com/GSM6KUz.png)
+
+It wasn't too hard a problem to solve, admittedly, but it was a bit of a pain to implement! All you really have to do to get it working is to add a "Normal from Texture" node, plug it into one of the functions and factor it in when calculating the lighting, but Unity splits lighting into the "Main Light", i.e. the sun, and "Additional Lights", which are everything else. The pain was to find a solution which was consistent with my implementations of both, since while following tutorials, Main and Additional lights were being calculated in slightly different ways. 
+
+![](https://i.imgur.com/hDySkZ7.png)
+^ The solution for "Main Lights"
+
+![](https://i.imgur.com/0GdCQ1m.png)
+^ The solution for "Additional Lights"
+
+Either way, I've done it now, and I couldn't be happier! So far working on the shader feels really rewarding, but I need to move on everntually, so, like I said, I'll be moving onto modelling and rigging Laika :)
