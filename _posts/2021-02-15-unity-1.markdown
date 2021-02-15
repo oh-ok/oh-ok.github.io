@@ -1,0 +1,57 @@
+---
+layout: post
+title: Unity is equally fun and infuriating
+date: '2021-02-12T00:00:00+00:00'
+permalink: unity-1
+---
+# How did I even get here?
+
+For my current two projects, I decided to make games, because I love to play them, and because I had really good ideas that just felt like they should be interactive experiences. So yeah, I have so much work on my plate right now...
+
+# Use your damn words!
+The first brief is a D&AD brief set by Rare and Xbox to design "a game that both feels good to play, and does good for the world". My solution (at the moment) is to create a game where you "you use your words" instead of a weapon, which is heavily inspired by a game that's had a huge influence on me, "Wandersong" - in which you play as a bard who solves problems by singing. My twist of using words instead of singing, though, makes it so that the tone and style of my game are completely different to Greg Lobanov's, and I can also impress D&AD's more graphic design based judges (as well as my tutors) by using typography in an interesting way, as well as having a unique gameplay mechanic to impress people in the games industry.
+
+# Laika
+The second brief is one set my my tutors to show the story of a 'great explorer' in a unique way. The explorer I chose was Laika the Russian space dog, who was the first large mammal to ever see space in the 50s. Unfortunately, she was sent up without any intent to get her back down to Earth, and she passed away due to failures on her spacecraft. This completely lends itself to being a piece of animation, so I decided to also make it a game, since I want more game and interaction design in my portfolio anyway, and I think I could make this more traditionally impressive for game-people. 
+
+# Why Unity?
+I chose Unity because it's a very popular and versatile game engine, I'd used Godot and GameMaker plenty before, but developing skills in a more mature and popular engine like Unity seemed like a good idea since I want a job :) Unity also has tons of free assets available, which I intended to use as place-holders while I create my own work. (I was also considering doing a Unity certification but eh I probably wont unless I really struggle to get a job).
+
+I was also led to believe that Unity had lots and lots of documentation on it... yeah we'll get to that in a sec...
+
+# Unity is great
+I actually like working in Unity so far, it seems to be a good "do it all" piece of software, I like the modular "Packages", so you can only have things you need in your project, I like the *idea* of the Asset Store (which kinda gives Unity a bad rep) and I like that they *try* to educate people on how to use their engine. So far, learning to use Unity has been mostly a smooth journey. 
+
+# But I get stuck on weird things
+While the team behind Unity have documentation and *try* to educate people how to make games, it seems that a lot of their documentation is from the perspective of someone who already knows exactly what's going on. Their documentation never gives specifics, never goes into detail, and never hints at where you should be looking to learn more. Unity's documentation is a complete rat's nest. For example, I was following Unity's own tutorial on how to make a 'simple toon shader', except you can clearly see at the bottom they've added 'keywords' that allow the shader to recieve shadows from other objects without saying how or why they needed to do that (they needed to do that because they started from an Unlit Shader, which understandably by default, does not). It also doesn't help that there is no mention on those keywords in official Unity documentation ***anywhere***.
+
+Documentation on shaders in general is pretty sparse, especially on the [HLSL variant that Unity uses](https://docs.unity3d.com/Manual/SL-ShaderPrograms.html), unfortunately.
+
+I like to think I know other shader implementations pretty well, I've used Blender for years and never ran into this problem. 
+
+# So how's it going?
+Apart from that, it's going pretty good! The brief isn't to make two fully functional and feature rich narrative games, just to *'show the ideas'*, so I plan to make a 20 second trailer for each game, showing at least 1 unique gameplay idea with an in-engine mock-up/playable demo. 
+
+Like I mentioned earlier, I made a custom shader, which was an **extremely** fun experience 
+![](https://i.imgur.com/EEnPFEa.png)
+![](https://i.imgur.com/sWig6gy.png)
+^ Standard Lighting
+![](https://i.imgur.com/x2qsqci.png)
+^ Custom Shader (so far)
+
+You can also see a bunch of simple buildings around, I also modelled the those too :) I hope to make them a bit more stylised and less boring if I ever have time!
+
+I hope to model and rig Laika this week, so I can get an actual character moving around in an environment! 
+
+Epic!
+
+This is a lot of work!
+
+I haven't even started making the other game!
+
+I have 2 other briefs happening too!
+
+***Somebody help me!***
+
+![](https://i.imgur.com/CQunGJ7.jpg)
+^ Opening screenshot (so far, I have yet to properly model Laika)
