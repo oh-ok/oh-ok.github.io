@@ -78,7 +78,7 @@ Both the render textures have a box collider which is bigger than the texture, j
 
 ![](https://i.imgur.com/euqrOov.png)
 
-Once the player collides with the box, it will spawn a copy of the sprite on the opposite side, so that if there's someone observing from the other side. If we don't, then the player will be partially invisible from the other player's view, since they're now leaving the true level and not being captured by the render texture's camera...
+Once the player collides with the box, it will spawn a copy of the sprite on the opposite side. If we don't, then the player will be partially invisible from the other player's view, since they're now leaving the true level and not being captured by the render texture's camera...
 
 ![](https://i.imgur.com/8fqTBhe.gif)
 
