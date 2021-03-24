@@ -72,3 +72,6 @@ It wasn't too hard a problem to solve, admittedly, but it was a bit of a pain to
 ^ The solution for "Additional Lights"
 
 Either way, I've done it now, and I couldn't be happier! So far working on the shader feels really rewarding, but I need to move on everntually, so, like I said, I'll be moving onto modelling and rigging Laika :)
+
+# Update 2
+So it turns out that Unity has a keyword for allowing Normal maps anyway, I didn't need to engineer my own solution like I did, just add the "_NORMAL_MAP" keyword and you'll be able to add a Normal property to the Fragment shader. Again, why is there no good documentation on this stuff?
