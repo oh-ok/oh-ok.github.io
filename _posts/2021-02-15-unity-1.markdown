@@ -2,7 +2,6 @@
 layout: post
 title: Unity is equally fun and infuriating
 date: '2021-02-12T00:00:00+00:00'
-permalink: unity-1
 ---
 # How did I even get here?
 

@@ -2,7 +2,6 @@
 layout: post
 title: '"Burly Men at Sea" & "Q.U.B.E. 2" - Games That Ate Up My Summer'
 date: '2020-10-02T00:00:00+00:00'
-permalink: gtaums_qube2_burly_men
 ---
 The "I don't remember what happened but I guess it was okay" post
 

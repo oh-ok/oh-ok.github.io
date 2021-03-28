@@ -2,7 +2,6 @@
 layout: post
 title: Pokémon Hyper-fixation (I do not have a problem I swear [but I have bought over £50 worth of Pokémon products in the past month {okay maybe I have a problem}])
 date: '2020-11-20T00:00:00+00:00'
-permalink: pokemon_hyperfixation
 ---
 # Pokémon Sword (2019) by Game Freak
 It's a great game, if you've played any of the classic games but haven't played a newer title, then Sword and Shield is easily the best generation to get back into the series. 

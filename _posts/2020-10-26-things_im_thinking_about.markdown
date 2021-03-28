@@ -2,7 +2,6 @@
 layout: post
 title: A Plague Tale Innocence & Thoughts About Things (Because I Have Those Sometimes)
 date: '2020-10-26T00:00:00+00:00'
-permalink: plague_talk
 ---
 # A Plague Tale: Innocence by Asobo Studio
 I just played through A Plague Tale: Innocence and it was pretty good... to begin with. I liked the intro a lot, it really hooked me in, I liked the characters of Amicia and Hugo De Rune and the setting of medieval France is unique and well executed initially. As the story went on however I found that while the game succeeds in making you feel like the odds are stacked against you, it's "instant-fail-states" would prove to be the bane of my existence. See, the majority of A Plague Tale's gameplay is stealth and puzzle solving, and it's quite unforgiving once you've been found out, i.e. as soon as you slip up once, it's kind of over and you have to restart from the last checkpoint. Very frustrating stuff. 

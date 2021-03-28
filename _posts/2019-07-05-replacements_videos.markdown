@@ -2,7 +2,6 @@
 layout: post
 title: "\uFEFFThe Subtle Genius of The Replacements Music Videos"
 date: '2019-07-05T00:00:00+00:00'
-permalink: replacements_videos
 ---
 The Replacements are absolutely my favourite band of all time, I'm absolutely in love with their entire discography, that said, if I had to pick a favourite album it would be Tim. With tracks tracks like Hold My Life, Bastards of Young and Dose of Thunder overflowing with electricity and life, to the more sombre and moody reflections of Here Comes a Regular and Swinging Party, and everything inbetween like Little Mascara and Left of the Dial. The album is a 10/10 for me. But with this album came something that frontman Paul Westerberg was absolutely dreading... making a music video. 
 

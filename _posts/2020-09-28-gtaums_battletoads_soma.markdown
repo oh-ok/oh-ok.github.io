@@ -2,7 +2,6 @@
 layout: post
 title: '"Battletoads" & "SOMA" - Games That Ate Up My Summer'
 date: '2020-09-28T00:00:00+00:00'
-permalink: gtaums_battletoads_soma
 ---
 The 'eh, it's cool I guess' special!
 

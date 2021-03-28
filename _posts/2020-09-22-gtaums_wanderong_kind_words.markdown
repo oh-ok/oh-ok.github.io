@@ -2,7 +2,6 @@
 layout: post
 title: '"Wandersong" & "Kind Words" - Games That Ate Up My Summer'
 date: '2020-09-22T00:00:00+00:00'
-permalink: gtaums_wanderong_kind_words
 ---
 Hi, I have no self control so I played videogames all summer!
 

@@ -2,7 +2,6 @@
 layout: post
 title: Blend'r Adventu'r
 date: '2019-11-10T00:00:00+00:00'
-permalink: blender_fun
 ---
 I've been interested in the 3D software Blender for a while since I've come across its very dedicated community/user base all over the internet, but especially on YouTube and Twitter. With it's new 2.8 update I thought I'd actually give learning the program/3D art a go. Blender is free and open source so it was simple enough to get and install, so I started playing around, watching tutorials and getting a basic understanding of how it all functions & it's workflow. 
 

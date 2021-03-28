@@ -2,7 +2,6 @@
 layout: post
 title: '"Hypnospace Outlaw" & "Orwell" - Games That Ate Up My Summer'
 date: '2020-09-23T00:00:00+00:00'
-permalink: gtaums_hypnospace_orwell
 ---
 I thought I'd stick to a similar formula as the last blog post so today I'm going to be writing about two point & click style "desktop simulator" games. I honestly dont know what genre these come under to be honest but I feel like they're similar. 
 

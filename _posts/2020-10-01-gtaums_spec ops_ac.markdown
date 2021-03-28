@@ -3,7 +3,6 @@ layout: post
 title: '"Assassin''s Creed: Origins" & "Spec Ops: The Line" - Games That Ate Up My
   Summer'
 date: '2020-10-01T00:00:00+00:00'
-permalink: gtaums_spec ops_ac
 ---
 The "AAA" post.
 

@@ -2,7 +2,6 @@
 layout: post
 title: More on The Pokémon TCG, and Other Stuff
 date: '2020-12-19T00:00:00+00:00'
-permalink: more_pokemon_thoughts
 ---
 # More Thoughts on PTCG
 

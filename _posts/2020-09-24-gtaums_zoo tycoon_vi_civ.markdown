@@ -3,7 +3,6 @@ layout: post
 title: '"Sid Meier''s Civilization VI" & "Zoo Tycoon: Ultimate..." - Games That Ate
   Up My Summer'
 date: '2020-09-24T00:00:00+00:00'
-permalink: gtaums_zoo tycoon_vi_civ
 ---
 This is a different post because I wasn't the reason I got sucked into these games, I'd never really even cared about Zoo Tycoon until last week when I was scrolling through the Game Pass For PC library and my boyfriend picked it out. Within 10 minutes of the game being open though, we were completely hooked, there was nothing to live for except Zoo Tycoon. Shortly after a week of nothing but Zoo Tycoon, I was thinking of a different management sim I got for free in a recent sale, since my bf loved ZT so much, why not sit him in front of Civilization VI and see what happens? Well here we are, still hopelessly addicted to it, and our 4th eyes have been opened to the pure bliss that is the 4X genre. (*Zoo Tycoon is not a 4X game but both games are management sims and for some reason my brain makes weird connections like that)
 

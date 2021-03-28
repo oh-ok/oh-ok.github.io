@@ -6,10 +6,10 @@ excerpt: Sup, I'm Kieran
 comments: false
 ---
 
-Sup, I'm Kieran. I like stuff sometimes.
+Hi, I'm Kieran! 
 
-![Me!](/assets/img/avatar.jpg)
+If you're interested in me or my work there's tons of ways to get in touch!
 
-- {{ site.author.email }}
+- [{{ site.author.email }}](mailto://{{site.author.email}})
 - [github.com/{{ site.author.github }}](http://github.com/{{site.author.github}})
 - [twitter.com/{{ site.author.twitter }}](http://twitter.com/{{site.author.twitter}})

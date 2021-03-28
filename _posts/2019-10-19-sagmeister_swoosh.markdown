@@ -2,7 +2,6 @@
 layout: post
 title: Sagmeister & Swoosh
 date: '2019-10-19T00:00:00+00:00'
-permalink: sagmeister_swoosh
 ---
 I've been reading through "Made You Look" by Stefan Sagmeister and it's one of the best books I've ever read in my life. I absolutely love Sagmeister's sense of humour and his inhuman ability to think outside of the box. Absolutely all of his work displayed in the book has some kind of humanising concept behind it, and nearly all of them are pure genius. There are also a number of quotes that I love from the book, my favourite of which is his explaination of good graphic design: 
 

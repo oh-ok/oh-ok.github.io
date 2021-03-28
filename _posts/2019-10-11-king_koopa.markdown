@@ -2,7 +2,6 @@
 layout: post
 title: King Koopa
 date: '2019-10-11T00:00:00+00:00'
-permalink: king_koopa
 ---
 
 Se7en Title Sequences designed by Kyle Cooper

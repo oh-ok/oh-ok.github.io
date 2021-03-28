@@ -2,7 +2,6 @@
 layout: post
 title: YouTube's interesting informality
 date: '2019-09-02T00:00:00+00:00'
-permalink: youtubes_fun_informality
 ---
 I watch a whole lot of YouTube. I watched a ton of videos over this summer holidays while I had little to do. During these weeks I'd found a few channels whom I've come to love, and I watched those whom I've watched for years. One of those newly discovered is [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w), who's channel is primarily host to "Down The Rabbit Hole" which is "a series of videos diving deep into the strange parts of the internet as well as confounding and absurd elements of history". 
 

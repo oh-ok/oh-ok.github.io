@@ -2,7 +2,6 @@
 layout: post
 title: Are Ad/Design Agencies Out of Touch?
 date: '2020-10-11T00:00:00+00:00'
-permalink: are_creatives_out_of_touch
 ---
 I've been thinking a fair amount about "the design industry" recently. For a number of reasons, I don't really like it as it is today, from how it operates as a whole to the kinds of people it attracts. With that said though, those concerns aren't the kinds of things that are exclusive to the design/creative industry, so I won't talk about it that much outside of this post. If possible, I'd like to facilitate the changes I think would make the industry better from the inside (but I guess that's what everyone tries to do to some extent). 
 

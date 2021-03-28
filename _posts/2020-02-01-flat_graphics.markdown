@@ -2,7 +2,6 @@
 layout: post
 title: Some Thoughts on "Flat Graphics"
 date: '2020-02-01T00:00:00+00:00'
-permalink: flat_graphics
 ---
 You've seen flat graphics, I've seen flat graphics, I want to have a chat about them - just kind of in general.
 

@@ -2,7 +2,6 @@
 layout: post
 title: '"Shadowrun Returns" & "Observation" - Games That Ate Up My Summer'
 date: '2020-09-30T00:00:00+00:00'
-permalink: gtaums_wanderong_observation
 ---
 The "wtf?" post.
 

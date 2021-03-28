@@ -2,7 +2,6 @@
 layout: post
 title: '"Sea of Thieves" and "Killing Floor 2" - Games That Ate Up My Summer'
 date: '2020-09-26T00:00:00+00:00'
-permalink: gtaums_sot_killing_floor_2
 ---
 The theme of this post is "aimless grind" because both Sea of Thieves and Killing Floor 2 are exclusively "live service" style multiplayer games, i.e. they have no single player, and no story (arguably, there is lore), they both have repetitive FPS combat-based gameplay, and you pretty much mostly grind just because it is satisfying to.
 

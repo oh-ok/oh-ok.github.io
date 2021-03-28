@@ -2,7 +2,6 @@
 layout: post
 title: Fresh Staaaance
 date: '2019-11-04T00:00:00+00:00'
-permalink: fresh_stance
 ---
 ![Fresh Vibe logo designed by Joseph Burley, image nabbed from Art-Tart](/assets/posts/fresh_vibe.png)
 * [Fresh Vibe logo designed by Joseph Burley, image nabbed from Art-Tart](https://martinlithgow.wixsite.com/art-tart/post/feel-the-vibe)

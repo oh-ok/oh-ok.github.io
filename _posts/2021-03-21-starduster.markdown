@@ -2,7 +2,6 @@
 layout: post
 title: Starduster!
 date: '2021-03-21T00:00:00+00:00'
-permalink: starduster-03-21
 ---
 # The game
 

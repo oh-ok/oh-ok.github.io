@@ -2,7 +2,6 @@
 layout: post
 title: 4096 - Nostalgia in Motion
 date: '2019-12-17T00:00:00+00:00'
-permalink: in_motion
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9DfSCk-6Ko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -2,7 +2,6 @@
 layout: post
 title: '"Make It Funky Now"'
 date: '2019-11-13T00:00:00+00:00'
-permalink: make_it_funky_now
 ---
 Here's something I came across yesterday that I can't seem to get enough of: 
 

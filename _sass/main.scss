@@ -42,6 +42,16 @@ $narrow-size: 720px;
 $spacing-full: 30px;
 $spacing-half: $spacing-full / 2;
 
+//Portfolio button css
+#button1 {
+	align:left;
+	padding:5%;
+}
+#button2 {
+	align:right;
+	padding:5%;
+}
+
 // State of devices
 $on-mobile: 768px;
 $on-tablet: 769px;

@@ -2,7 +2,6 @@
 layout: post
 title: Great YouTube Creators
 date: '2020-10-05T00:00:00+00:00'
-permalink: great_creators
 ---
 So today is the day that university starts back up for me, but I hope to still keep this blog updated with games I'm playing and design stuff that I'm liking somewhat frequently (hopefully at least once a day). But as a quick post, I'd like to share some people that I'm watching and learning from. Almost all of these people will be based on YouTube, both to keep them accessible to you but also because that's just where I get a lot of my entertainment from. 
 
