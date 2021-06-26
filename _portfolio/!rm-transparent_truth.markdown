@@ -2,6 +2,7 @@
 title: '#TransparentTruth'
 date: '2021-03-15T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/rsa_motion/Portfolio_Hero.png'
+tags: graphic motion
 ---
 
 #TransparentTruth is a system and campaign for a potential Twitter fact-checking system. As I was developing this project, Twitter came out with [a different approach to fact-checking](https://help.twitter.com/en/using-twitter/birdwatch) which is more community based, however I believe that Transparent Truth would be a much better alternative from the perspective of correcting misinformation. 

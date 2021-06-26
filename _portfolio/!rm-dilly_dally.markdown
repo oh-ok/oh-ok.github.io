@@ -3,6 +3,7 @@ layout: post
 title: Dilly Dally
 date: '2020-01-12T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/dilly_dally/hero_image.png'
+tags: graphic motion
 ---
 
 ![Hero Image]({{page.thumbnailUrl}})

@@ -3,6 +3,7 @@ layout: post
 title: The Replacements - Androgynous
 date: '2020-03-12T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/androgynous/Hero.png'
+tags: graphic motion
 ---
 
 ![Hero Image]({{page.thumbnailUrl}})

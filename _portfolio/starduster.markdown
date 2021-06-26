@@ -3,6 +3,7 @@ title: Starduster!
 date: '2021-03-20T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/starduster/Hero_Image.png'
 layout: post
+tags: game graphic
 ---
 Starduster is a 2D local multiplayer head-to-head game about spring cleaning on an alien planet! One person plays as a cat-like-creature on it's mission to create chaos, and their owner, the other player, tries to stop them by whatever means necessary!
 

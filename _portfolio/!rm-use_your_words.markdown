@@ -3,6 +3,7 @@ layout: post
 title: Use Your Words!
 date: '2021-03-20T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/use_your_words/Folio_Hero.png'
+tags: graphic motion game
 ---
 
 ![Hero Image]({{page.thumbnailUrl}})
