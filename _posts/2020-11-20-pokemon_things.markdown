@@ -8,7 +8,7 @@ It's a great game, if you've played any of the classic games but haven't played 
 
 The main thing that was stopping me from initially buying the game was because I remember seeing so much negativity around the release, mainly that these games don't have the "full" National Pokédex (which would be 898 true Pokémon, not including alternate forms, Mega Evolutions, etc), instead, the only Pokémon you can get in the game are the ones native to the U.K. themed Galar Region and the ones brought through the game's DLC expansion pass. 
 
-The reason this was such a big deal at the time was because in *every* main game up until this point, you could transfer your Pokémon from the previous generations of games, but if your favourite Pokémon was one of the ones Game Freak left behind then you're out of luck. So if you wanted (and if you had every generation of games), you could transfer your Charizard from Pokémon Red (1999) on the Gameboy all the way up to Pokémon Ultra Sun (2017) on the 3DS. It's understandable enough, having to wrestle with such a huge number of characters is very scary from a development perspective, and we don't know what kind of process they use to make these games so it would be silly to assume you know more than Game Freak on this issue. This leads us onto the second reason fans were angry at the game, the "graphics". 
+The reason this was such a big deal at the time was because in *every* main game up until this point, you could transfer your Pokémon from the previous generations of games, but if your favorite Pokémon was one of the ones Game Freak left behind then you're out of luck. So if you wanted (and if you had every generation of games), you could transfer your Charizard from Pokémon Red (1999) on the Gameboy all the way up to Pokémon Ultra Sun (2017) on the 3DS. It's understandable enough, having to wrestle with such a huge number of characters is very scary from a development perspective, and we don't know what kind of process they use to make these games so it would be silly to assume you know more than Game Freak on this issue. This leads us onto the second reason fans were angry at the game, the "graphics". 
 
 One of the reason that GF (Game Freak) decided to cut the National Pokédex was to focus on making Sword/Shield more graphically detailed, since this is the first time that a main series Pokémon game has been on a ""home console"" (Nintendo Switch isn't entirely a home console, it's technically a hybrid since it is also portable). Pretty much all I saw when the game released was images of the games "Wild Area", and area in the middle of the game map where there is a huge assortment of wild Pokémon. The Wild Area is easily the least impressive looking place in the game to say the least, but even then most of the time it looks decent!
 
@@ -41,13 +41,13 @@ And honestly, the story again has a bigger presence than in previous games, whic
 Also the Dynamax and Gigantamax gimmick is pretty fucking cool too. I love that any Pokémon can Dynamax but only some can actually change form to Gigantamax, 
 
 
-<iframe width=640 height=360 src="https://www.youtube.com/embed/Kn8rjGp_dmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube-embed" src="https://www.youtube.com/embed/Kn8rjGp_dmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # And the new camping stuff is cute and fun too!!
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gyOxM5e4gRI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube-embed" src="https://www.youtube.com/embed/gyOxM5e4gRI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#Basically, play Pokémon Sword/Shield, it's pretty cool. 
+# Basically, play Pokémon Sword/Shield, it's pretty cool. 
 
 That's where this hyper-fixation started, I bought Sword to play with my boyfriend, and to celebrate I thought I might try to get him a shiny Eevee from the previous game to transfer over to the new game. Shiny Pokémon are rare alternate coloured Pokémon, in the wild you have 1/4096 chance of encountering one, but there are various things you can do to make your odds better. In the end it took me just over 9 hours in one sitting to get a shiny Eevee for him. I think that broke my brain. Now all I can think about is Pokémon. 
 
@@ -57,12 +57,14 @@ Then, I don't remember why, but I bought some Pokémon Trading Card booster pack
 
 We ended up getting some cards we wanted and some cards we didn't, but man opening the packs is addictive as fuck. Honestly don't know how they're able to get away with what's basically gambling with all the odds stacked against you. On the other hand though, the art on some of these cards is freaking great! As physical products they're really really nice! Especially the "full art" cards that feature alternate art covering the entire card. 
 
-![](https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_221.png)
-![](https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_222.png)
-![](https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_216.png)
-![](https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_239.png)
+<div style="display:inline-block;">
+    <img style="width:45%; float:left; padding:1%;" src="https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_221.png">
+    <img style="width:45%; float:left; padding:1%;" src="https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_222.png">
+    <img style="width:45%; float:left; padding:1%;" src="https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_216.png">
+    <img style="width:45%; float:left; padding:1%;" src="https://www.pokemontcg.com/assets/cosmic-eclipse/img/cards/en-us/SM12_239.png">
+</div>
 
-The physial nature of all of the holographic cards is really nice too, it really makes you feel like you've got the "golden ticket" when you pull one from a pack!
+The physical nature of all of the holographic cards is really nice too, it really makes you feel like you've got the "golden ticket" when you pull one from a pack!
 
 ![](https://64.media.tumblr.com/1e87db43ba371ece55b5e4b5232bb6a7/tumblr_p2roepdyr81w9geo4o3_r1_400.gifv)
 
@@ -83,8 +85,8 @@ Also shiny Pokémon in general are just cool, Wooloo, one of the new Galar Poké
 Speaking of shinies and of cards though, there's one set of cards that has a bunch of holographic cards with the alternate "shiny" colourings called Hidden Fates. ***ONE PACK (10 cards, one of which is an energy) OF THIS SET COSTS £10, WHEN YOU COULD NEVER GET £10 WORTH OF CARDS OUT OF IT. I THINK THAT THE £3 PACKS ARE FUCKING EXPENSIVE HOLY SHIT MAN*** 
 
 They do look nice though...
-
-<img src="https://www.pokemontcg.com/assets/hidden-fates/img/cards/en-us/SM11pt5_SV2.png" alt="drawing" style="width:215px;"/>
-<img src="https://www.pokemontcg.com/assets/hidden-fates/img/cards/en-us/SM11pt5_SV8.png" alt="drawing" style="width:215px;"/>
-<img src="https://www.pokemontcg.com/assets/hidden-fates/img/cards/en-us/SM11pt5_SV43.png" alt="drawing" style="width:215px;"/>
-
+<div style="display:inline-block; justify-content: center;">
+    <img style="width:31%; float:left; padding:1%;" src="https://www.pokemontcg.com/assets/hidden-fates/img/cards/en-us/SM11pt5_SV2.png" alt="drawing">
+    <img style="width:31%; float:left; padding:1%;" src="https://www.pokemontcg.com/assets/hidden-fates/img/cards/en-us/SM11pt5_SV8.png" alt="drawing">
+    <img style="width:31%; float:left; padding:1%;" src="https://www.pokemontcg.com/assets/hidden-fates/img/cards/en-us/SM11pt5_SV43.png" alt="drawing">
+</div>

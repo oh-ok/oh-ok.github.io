@@ -1,5 +1,5 @@
 ---
-title: 'Laika: Streets to Stars'
+title: 'Laika: Streets to Stars (WIP)'
 date: '2021-03-27T00:00:00+00:00'
 thumbnailUrl: https://storage.googleapis.com/portfolio_test/laika/Laika_Hero_1-01.png
 tags: game
@@ -19,7 +19,7 @@ Laika is the only animal to be sent into space without any intent of retrieval.
 
 Here's a short video of the intro sequence.
 
-<video controls="controls">
+<video controls="controls" style="width:100%">
     <source src="https://storage.googleapis.com/portfolio_test/laika/opening%20shot%20mobile%20v3.mp4" type="video/mp4">
     Your browser does not support the HTML5 Video element.
 </video>

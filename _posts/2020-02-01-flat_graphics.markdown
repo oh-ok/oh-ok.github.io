@@ -12,7 +12,7 @@ You could define "flat" in a couple of ways, I define it as an image generally m
 
 Flat graphics are quite popular today, you see it most commonly in motion design and motion design, but you also see it a lot in a lot of illustration, and that's because, put simply, its quite easy to do and it looks good/is hard to fuck up. That's especially important in motion design and animation because you obviously need objects in the image to be consistent across however many hundreds, maybe even thousands of frames throughout the project, so having a simple style will help you out immensely in that. So I let people like Kurzgesagt get away with it, because they have 10-20 animated scenes in a 10-minute video, and while they do look pretty good, that isn't its main purpose, its main purpose is to inform and entertain. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WPPPFqsECz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube-embed" src="https://www.youtube.com/embed/WPPPFqsECz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And even when Kurzgesagt do an illustration, especially one that they are going to sell you, they don't just settle for the "minimal" look that they do in their videos, they punch it up to 11 and make it quite beautiful 
 
@@ -22,7 +22,7 @@ I just like Kurzgesagt, okay?!
 
 Someone else I like who kind of does flat graphics is Ben Marriot, who does "flat" motion graphics, but makes his work  ***C R U N C H Y***  by adding grain and other brush effects to his shadows and highlights, giving his work a feeling of "realness", this is enhanced by the frame rates that he (generally) uses for his work, making clever use of the posterize time effect, the complete polar opposite of the smooth and clean Kurzgesagt. 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/258567315" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube-embed" title="vimeo-player" src="https://player.vimeo.com/video/258567315" frameborder="0" allowfullscreen></iframe>
 
 This kind of grainy style has been getting quite popular too now, with most people adding texture to their work to make it feel less "flat", while mostly keeping the same workflow. 
 

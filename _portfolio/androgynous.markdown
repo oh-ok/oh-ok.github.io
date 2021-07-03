@@ -22,6 +22,6 @@ As part of this I experimented lots with variable type as a subtle hint to the v
 
 Here's a video of the motion bits
 
-<video loop="true" controls="controls">
+<video loop="true" controls="controls" style="width:100%">
 	<source src="https://storage.googleapis.com/portfolio_test/androgynous/PUTPUT2_2.webm">
 </video>

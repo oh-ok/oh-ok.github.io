@@ -11,7 +11,11 @@ I've promised myself that I'm only going to buy single cards from local business
 
 There's a really nice special set coming up in February with a shiny Wooloo in it, and an Eevee VMAX promo card, and shiny versions of *very* playable cards like Crobat V, so I've managed to pre-order some of that, but if the prices on eBay are crazy then I may sell some packs to get some money back. 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fserebii.net%2Fcard%2Fspromo%2F101.jpg" alt="drawing" style="width:215px;"/> <img src="https://i0.wp.com/playskapegames.com/wp-content/uploads/2020/10/ff9f71042c3dfcde46e2dd9dc0c10a91b4c9711a.jpg" alt="drawing" style="width:215px;"/> <img src="https://cdn.bulbagarden.net/upload/a/ac/EldegossVShinyStarV306.jpg" alt="drawing" style="width:215px;"/>
+<div style="display:inline-block;">
+    <img style="float:left; width:31%; padding:1%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fserebii.net%2Fcard%2Fspromo%2F101.jpg" alt="drawing">
+    <img style="float:left; width:31%; padding:1%" src="https://i0.wp.com/playskapegames.com/wp-content/uploads/2020/10/ff9f71042c3dfcde46e2dd9dc0c10a91b4c9711a.jpg" alt="drawing">
+    <img style="float:left; width:31%; padding:1%" src="https://cdn2.bulbagarden.net/upload/6/60/EldegossVSWSHPromo84.jpg" alt="drawing"/>
+</div>
 
 [There's also a new main set coming out in March](https://www.pokebeach.com/2020/12/battle-style-is-marchs-set-introduces-new-single-strike-and-rapid-strike-cards), I've seen pre-orders for it the last few days and it's seeming like the Pokémon mania has calmed down, nowhere I've seen is completely out of stock on the pre orders (yet). There's a cool new mechanic that allows for more direct and powerful synergies between cards, so I plan on trying it out :)
 

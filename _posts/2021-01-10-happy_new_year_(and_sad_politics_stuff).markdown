@@ -11,9 +11,9 @@ I hope everyone had a great Christmas/holiday/new year/etc. and that everyone is
 	<iframe src="https://giphy.com/embed/xUOxf23OGRF34s5Og0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div><p><a href="https://giphy.com/gifs/retro-neon-new-year-xUOxf23OGRF34s5Og0">via GIPHY</a></p>
 
-We start the year off with *another* poorly timed national lockdown! This was very frustrating, since the week after lockdown was announced, we were supposed to begin university stuff again, but alas, it was not meant to be, online learning will have to do for my art & design course.
+We start the year off with *another* poorly timed national lockdown! This was very frustrating, since the week after lockdown was announced, we were supposed to begin university stuff again, but alas, it was not meant to be, online learning will have to do for my practical art & design course.
 
-It's kind of silly how we're still paying full price for half of the goods/services, the major reason for going to a design school in the first place (in my opinion) is to have access to their technical resources and their industry links, but we are not able to utilise those when we aren't allowed to leave our homes. I understand that we're still getting a degree from a physical "prestigious/traditional" university, but I feel like having the graduate years 2020 & 2021 on my CV will end up putting me below those who graduate the year before/after this pandemic starts to truly subside. 
+It's kind of silly how we're still paying full price for half of the goods/services, the major reason for going to a design school in the first place (in my opinion) is to have access to their technical resources and their industry links, but we are not able to utilise those when we aren't allowed to leave our homes. I understand that we're still getting a degree from a physical "prestigious/traditional" university, but I feel like having the graduate years 2020 & 2021 on my CV will end up putting me below those who graduate the year before/after this pandemic.
 
 Doing design work at home isn't the worst thing in the world, but I find it quite hard to concentrate and having the distinct divide that a "physical work building" provides does help that a lot. I *really* struggled to do any work at home home over Christmas, I ended up doing a little sketchbook work (a few pages worth), but certainly far less than I would've liked. 
 
@@ -27,9 +27,9 @@ It's about Curtis' own "conspiracy theory", which branches between world politic
 
 The film's editing is... unique... at times I think "wow that's genius, that really felt impactful", but a lot of the time, the film can be overindulgent and obnoxious. You're often sat there watching the same 4 second clips repeating over and over for minutes at a time. I get the point of those choices, but the film is already bloated and slow paced, you can dial it back a bit. 
 
-So, what's it about then? HyperNormalisation is a term coined by Alexei Yurchak, who basically said that everyone in 70s/80s Russia knew that the Soviet union was failing, the government, the citizens, but nobody could think of a better alternative, so they just pretended everything was working fine, then the "falseness" was accepted as real, which leads us to today. 
+So, what's it about then? HyperNormalisation is a term coined by Alexei Yurchak, who basically said that everyone in 70s/80s Russia knew that the Soviet union was failing, the government, the citizens, but nobody could think of a better alternative (to capitalism that is), so they just pretended everything was working fine, then the "falseness" was accepted as real, which leads us to today. 
 
-The basic jist of Curtis film is that a similar thing is happening in Western society, but by slightly different means. 
+The basic gist of Curtis film is that a similar thing is happening in Western society, but by slightly different means. 
 
 Curtis' argument and evidence is very blurry (for a lack of better words), it feels like there's a wall in Curtis' mind with strings linking a thousand different things, but you can't see underneath the strings to make any sense of it. He cites the Libya's Gadafi, American UFOs, William Gibson's Neuromancer, Putin, New York's gentrification, Donald Trump's career, the Aladdin computer, Occupy Wall Street and so much more random stuff that it's hard to believe that he's not just cherry picking examples, and to be fair, he could be, but I feel like his ultimate point is a good enough one that I'll let it slide. 
 

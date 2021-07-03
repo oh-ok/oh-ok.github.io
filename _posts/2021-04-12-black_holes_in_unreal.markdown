@@ -9,7 +9,7 @@ date: '2021-04-12T00:00:00+00:00'
 
 Here's the Genesis Noir example for reference (SPOILERS!!): 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rwA46I0b-14?start=739" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube-embed" src="https://www.youtube.com/embed/rwA46I0b-14?start=739" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 So yeah it turns out that making a global shader in Unreal is kinda difficult when you don't know the software that well!
 
@@ -24,7 +24,7 @@ With the render target now set up, I then created a material that takes in the R
 
 Here's what that looked like, nowhere near close, but quite promising! I feel like if you fiddled with this enough you could get it to work. 
 
-<video controls="controls">
+<video style="width:100%;" controls="controls">
 	<source src="https://storage.googleapis.com/kgeary_blog_posts/black_hole_fun!/yeah_this_aint_it.mp4">
 </video>
 
@@ -32,7 +32,7 @@ I tried looking up some equations for this, but after discovering that refractio
 
 I started by just playing around with the refraction values through trial and error, and I then [came across this Quora page where someone gave a simple equation](https://www.quora.com/Google-What-is-refractive-index-of-blackhole?share=1), which I then implemented in Unreal using a simple transparent Material.
 
-<video controls="controls">
+<video style="width:100%;" controls="controls">
 	<source src="https://storage.googleapis.com/kgeary_blog_posts/black_hole_fun!/ahh_much_better.mp4"> 
 </video>
 
@@ -52,7 +52,7 @@ I then went and made a qiuck particle system to orbit the black hole, similar to
 
 I'm pretty sure Genesis Noir had more complicated particles, but this recreates the effect somewhat well...
 
-<video controls="controls" loop=true>
+<video style="width:100%;" controls="controls" loop=true>
 	<source src="https://storage.googleapis.com/kgeary_blog_posts/black_hole_fun!/up_close.mp4">
 </video>
 
@@ -60,8 +60,8 @@ I'll definitely be trying to use Unreal in the future, it seems quite user frien
 
 Here's some more footage of me moving the black hole around against a "night sky" (the deafult BP_Sky_Sphere, so there's some clouds but it still looks cool)! 
 
-<video controls="controls">
-	<source src="https://storage.cloud.google.com/kgeary_blog_posts/black_hole_fun!/showing_it_off.webm">
+<video style="width:100%;" controls="controls">
+	<source src="https://storage.googleapis.com/kgeary_blog_posts/black_hole_fun!/showing_it_off.webm">
 </video>
 
 Overall I'm really surprised by how simple Unreal make this, it was so simple that I just didn't consider they had a solution for something like this and I went on a big crazy journey, when all I needed was to just \*look it up\*.

@@ -15,7 +15,7 @@ To make my summer not a complete waste of time, and to ease me back into doing s
 ## Non-Violent Problem Solving
 Wandersong is a 2D platformer game about a bard who hates violence, instead of solving all his problems with a sharp weapon, he solves them with music, words and love. 
 
-The premise is great, there aren't very many pacifist fantasy games that I can think of, likely because fantasy is heavily based on our medieval era which was quite a violent time in history. You could argue that the pacifict bard is a bit of a stereotype, and you'd be sort of correct in that, except there isn't a lot of popular media that really puts bards in the spotlight, save videogames/TTRPGs, where combat is normally a core aspect of gameplay, and true pacifism is actually quite dificult to pull off. Either way, Wandersong wears anti-violence on it's sleeve, and where lesser games might rely on more vanilla/well traversed gameplay to try and make the player fell comfortable in this unfortunately unique premise, Wandersong invents it's own gameplay mechanic and utilises it in the most creative, meaningful and unique ways. On top of having some basic platforming to do, the main chunk of interesting gameplay comes from Wandersong's music wheel, which is a coloured wheel where each block of colour represent's a note, and once you hit that note, the game world reacts to it.
+The premise is great, there aren't very many pacifist fantasy games that I can think of, likely because fantasy is heavily based on our medieval era which was quite a violent time in history. You could argue that the pacifist bard is a bit of a stereotype, and you'd be sort of correct in that, except there isn't a lot of popular media that really puts bards in the spotlight, save videogames/TTRPGs, where combat is normally a core aspect of gameplay, and true pacifism is actually quite difficult to pull off. Either way, Wandersong wears anti-violence on it's sleeve, and where lesser games might rely on more vanilla/well traversed gameplay to try and make the player fell comfortable in this unfortunately unique premise, Wandersong invents it's own gameplay mechanic and utilises it in the most creative, meaningful and unique ways. On top of having some basic platforming to do, the main chunk of interesting gameplay comes from Wandersong's music wheel, which is a coloured wheel where each block of colour represents a note, and once you hit that note, the game world reacts to it.
 
 ![Bird signing with player](assets/posts/ws_bird.gif)
 
@@ -36,7 +36,7 @@ My only real criticism is the game's visuals. It clearly wants to go for a simpl
 
 [https://wanderso.ng/](https://wanderso.ng/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_8fjXrzkUhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube=embed" src="https://www.youtube.com/embed/_8fjXrzkUhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Kind Words (lo fi chill beats to write to) (2019) by Popcannibal
 
@@ -45,19 +45,19 @@ My only real criticism is the game's visuals. It clearly wants to go for a simpl
 Keeping on the theme of spreading love and positivity, I thought I'd share Kind Words. This is a very very very very very simple game about sending anonymous short letters to strangers on the internet. That's pretty much it, and it's great. 
 
 
-When you open the game you two basic options, you can either write a response letter to stranger's requests, or you can write your own request for stranger's to write a response letter to. There's no usernames, no identifiers, it's purely anonymous so you can be as honest as you're comfortable with, all they will see is a letter signed with a random (and changable) letter, i.e. "- H". 
+When you open the game you two basic options, you can either write a response letter to stranger's requests, or you can write your own request for stranger's to write a response letter to. There's no usernames, no identifiers, it's purely anonymous so you can be as honest as you're comfortable with, all they will see is a letter signed with a random (and changeable) letter, i.e. "- H". 
 
 
 Once you've replied to a request, the recipient can only respond with a collectable sticker. There's quite a few stickers to collect, and once you have them they have little 3D models that can be placed around your virtual room. 
 
 
-The other half of the title, ["(lo fi chill beats to write to)"](https://www.youtube.com/watch?v=5qap5aO4i9A), is more just a joke/reference to a popular 24/7 YouTube livestream called "lofi hip hop radio - beats to relax/study to". The game does have a soundtrack with about 3 or 4 lofi/chill songs, but I find that its quite repetetive and will normally mute it since I like to take my time when writing a response/request letter.
+The other half of the title, ["(lo fi chill beats to write to)"](https://www.youtube.com/watch?v=5qap5aO4i9A), is more just a joke/reference to a popular 24/7 YouTube livestream called "lofi hip hop radio - beats to relax/study to". The game does have a soundtrack with about 3 or 4 lofi/chill songs, but I find that its quite repetitive and will normally mute it since I like to take my time when writing a response/request letter.
 
 ![Kind Words](assets/posts/gtaums_kw1.png)
 
-It's a very theraputic game, with a supportive and wholesome community, and I can't recommend it more, it's pretty cheap and will run on basically any computer made after 2003, so if it sounds like your kind of thing then there's no excuses to not try it out.
+It's a very therapeutic game, with a supportive and wholesome community, and I can't recommend it more, it's pretty cheap and will run on basically any computer made after 2003, so if it sounds like your kind of thing then there's no excuses to not try it out.
 
 
-**Kind Words (lo fi chil beats to write to) is available on Steam for PC and it absolutely worth it!**
+**Kind Words (lo fi chili beats to write to) is available on Steam for PC and it absolutely worth it!**
 
 [https://store.steampowered.com/app/1070710/](https://store.steampowered.com/app/1070710/)

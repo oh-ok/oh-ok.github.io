@@ -18,4 +18,4 @@ Anyway the concept Joe and Martin came up with was to present as if we were sell
 
 I ended up making a few short video clips and Joe made an overarching brand, while Martin worked on the script and bish bash bosh, you have a presentation. Here's the finished thing, we recorded it just for your pleasure, enjoy:
 
-<iframe width="680" height="450" src="https://www.youtube.com/embed/vFKvToNyAfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube-embed" src="https://www.youtube.com/embed/vFKvToNyAfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

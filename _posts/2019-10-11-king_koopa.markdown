@@ -14,7 +14,7 @@ Kyle Cooper, he pretty much designs all of the good title sequences ever, but is
 
 Both these titles give off a real creepy vibe, with the music and the pace of the cuts, as well as the type jumping around always keeping you on your toes. 
 
-After making that connection my interest was piqued, what else has he made? To be honest it would be impossible to go through and list all of them, and at that point I might as well just give you [his website](http://www.prologue.com/). So heres some of my favourite movies/games that hes designed for:
+After making that connection my interest was piqued, what else has he made? To be honest it would be impossible to go through and list all of them, and at that point I might as well just give you [his website](http://www.prologue.com/). So heres some of my favorite movies/games that hes designed for:
 
 * [The Mummy](http://www.prologue.com/portfolio/the-mummy/)
 * [Resident Evil 2](http://www.prologue.com/portfolio/residentevil-2/)
@@ -30,4 +30,4 @@ After making that connection my interest was piqued, what else has he made? To b
 * [Spider-Man & Spider-Man 2](http://www.prologue.com/portfolio/spiderman/)
 * [The Mummy & The Mummy Returns](http://www.prologue.com/portfolio/the-mummy-returns/)
 
-That's just such a rediculous volume of projects, all to such a high quality (and thats with me being picky). This man has a hand in at least 10% of the media that I love growing up, and it's just a shame that I only recently knew his name until recently. 
+That's just such a ridiculous volume of projects, all to such a high quality (and thats with me being picky). This man has a hand in at least 10% of the media that I love growing up, and it's just a shame that I only recently knew his name until recently. 

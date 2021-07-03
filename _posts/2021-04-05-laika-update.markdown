@@ -7,7 +7,7 @@ Hello! I've been slowly doing things on the Laika project, it's really fun to ke
 
 So here's a snippet of the stuff I've been working on, the most notable changes are that there's now something of a player model, and a character controller, meaning that the environment is now explorable! 
 
-<video controls="controls">
+<video style="width:70%;" controls="controls">
     <source src="https://storage.googleapis.com/portfolio_test/laika/player_movement_apr.mp4">
 </video>
 
@@ -17,7 +17,7 @@ You'll also notice some lighting artifacts on the buildings, that's just because
 
 I'm really happy with how the street lamps have turned out, they really sell that this is a historical setting, so I'm confident that modeling my own cars will help sell it even more, which will be the next thing I work on!
 
-<video controls="controls">
+<video style="width:70%;" controls="controls">
     <source src="https://storage.googleapis.com/portfolio_test/laika/opening%20shot%20mobile%20v4.mp4">
 </video>
 

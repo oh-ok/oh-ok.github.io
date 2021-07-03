@@ -15,7 +15,7 @@ This is a board game café, and as such the user experience is based around tabl
 
 ![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-02.png)
 
-<video controls="controls">
+<video controls="controls" style="width:100%;">
     <source src="https://storage.googleapis.com/portfolio_test/dice_cup/web-demo.mp4">
 </video>
 

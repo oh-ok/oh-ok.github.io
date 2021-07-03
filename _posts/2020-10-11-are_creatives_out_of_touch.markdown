@@ -39,7 +39,7 @@ Albeit that's more of a silly example, but a valid one nonetheless. It clearly d
 
 * Etsy: not in touch, good platform, good systems for discover-ability, confusing because of changes - couldn't opt out of some self marketing, trust etsy sellers but not etsy themselves, they're the biggest "hand-crafted" open marketplace with almost zero competition so they're less inclined to listen to users, does not add to their communities
 
-* YouTube: very-out-of-touch, look at youtube-rewind (youtube produced yearly review) doesnt represent the platform, censorship and policy inconsistencies makes them feel profit-motivated, does not add to the community. 
+* YouTube: very-out-of-touch, look at youtube-rewind (youtube produced yearly review) doesn't represent the platform, censorship and policy inconsistencies makes them feel profit-motivated, does not add to the community. 
 
 * Apple: out-of-touch, anti-consumer practices, don't listen to their communities. 
 
