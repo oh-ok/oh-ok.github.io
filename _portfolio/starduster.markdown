@@ -38,6 +38,9 @@ We plan on slowly updating Starduster to expand on it's current gameplay and to 
 
 # The Technical Bits
 
+- [Effects & Shading](#effects--shading)
+- [Looping World in Unity](#looping-world)
+
 ## Effects & Shading
 
 There are many ways of creating outlines, especially on 2D objects, but due to the scale and scope of the project the decision was made to keep this element it simple and performant. We knew that we only ever wanted the outlines to be small.. well... outlines that highlight small objects around the main level. As a result, I created a simple shader which copies the silhouette of the sprite/texture in the 8 cardinal directions, creating the illusion of a growing stroke which compliments the pixel art-style.
@@ -72,3 +75,82 @@ Then in the object's update function, it will update it's material to one with t
 Finally, this approach also allows some customisation, the designer can create materials with different coloured strokes and apply that based on the object as they see fit (defaults are set to this).
 
 ![](https://i.imgur.com/OoPih0G.png)
+
+## Looping World
+
+![](https://media.discordapp.net/attachments/814873327440756756/821866950245220432/bg_test1.gif)
+An showing how looping works with sketch art with obvious edges. 
+
+The second and main problem I wanted to solve was the implementation of looping the world. This is quite common in platformers, but can be difficult to wrap your head around, [you basically want to make the world function like a torus](https://www.kotaku.com.au/2013/09/classic-jrpg-worlds-are-actually-donuts/) (or at the very least a cylindrical for horizontal only looping). Contemporary engines which focus on platformers (like Unity) don't have this functionality built-in, so we had to emulate it. 
+
+![](https://i.imgur.com/Gp9JUDl.png)
+A quick look a some of the objects that create this effect, note the "background", "LevelCam", "LoopLeft" and "LoopRight" objects. 
+
+The basic premise of this solution is that we have two Render Textures either side of the level which is fed from a camera covering the entire playable level. Then once they have left the playable level (i.e. are deep enough in the render texture), they will be teleported seamlessly back onto the playable ("real") level. 
+
+![](https://i.imgur.com/8fqTBhe.gif)
+One issue with this approach is that as they approach and pass the boundary, the moving player will leave the range of the camera and enter the render texture, from an observing player on the opposite side (at the "seam") they will disappear until teleported to their "true" position. 
+
+To rectify this issue, the level will then create a new object <sup>(obligatory *"yes pooling is more efficient, however it's not necessary for this small 2D project"*)</sup> which mimics the sprite of whatever is on top of it (including animation) and re-renders it at both ends of the level, so they are at worst, in-sync and can tell what's happening, and at best, completely seamless.
+
+![](https://i.imgur.com/XRkImKs.gif)
+
+<video style="width:100%" autoplay loop controls=controls>
+    <source src="https://i.imgur.com/Oos6p3V.mp4">
+</video>
+In this video the sprite shown as red when filled in by the script (make sure to watch fullscreen on desktop to see the left hand side properly!)
+
+Here's some C# code that made this happen, it should be pretty simple to follow!
+
+This code is on the Render Texture objects at either side of the level, I called them "loopers"
+
+{% highlight c# %}
+void OnTriggerStay2D(Collider2D col)
+{
+//If you've collided with a looper, and there's no clone, then make one
+if (col.tag == "Loopers")
+{
+	if (!cloneSpr)
+	{
+		loopDifference = col.transform.position.x;
+		looperCollider = col;
+		Vector3 newPos = new Vector3(
+			transform.position.x-loopDifference, 
+			transform.position.y-col.transform.position.y, 
+			transform.position.z-col.transform.position.z);
+
+		cloneSpr = Instantiate(clonePrefab, newPos, new Quaternion(0f,0f,0f,0f));
+		cloneSpr.layer = gameObject.layer;
+		cloneSpr.GetComponent<SpriteRenderer>().sortingOrder = sprRender.sortingOrder;
+	}
+}
+}
+{% endhighlight %}
+
+And here's the code of the "cloneSpr" prefab which it is instantiating. Pretty simple solution!
+
+{% highlight c# %}
+void Update()
+{
+	//If there's a clone sprite, then update it to be exactly the same as the real object
+    if (cloneSpr)
+    {
+    	cloneSpr.GetComponent<SpriteRenderer>().sprite = sprRender.sprite;
+    	cloneSpr.GetComponent<SpriteRenderer>().flipX = sprRender.flipX;
+    	cloneSpr.transform.position = new Vector3(
+    		transform.position.x-loopDifference,
+    		transform.position.y,
+    		transform.position.z);
+    	//If you've moved into the looper a distance of 3, then teleport the player back a bit
+    	if (thisCol.Distance(looperCollider).distance < -3)
+    	{
+    		transform.position = new Vector3(
+			transform.position.x+loopDifference*-1,
+			transform.position.y,
+			transform.position.z);
+    	}
+    }
+}
+{% endhighlight %}
+
+I'd browsed for other solutions, someone recommended having the entire level as a Prefab and then copying it to either side, but I wasn't a fan of that, it would essentially be O(3n) as opposed to my solutions O(n+x), which is clearly the better option for performance there, though (if implemented correctly) it wouldn't have the same issue of cutting off players at the seams, but the teleporters would be more unprofessional. 
