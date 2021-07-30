@@ -18,7 +18,7 @@ comments: false
 
 <ul id="search-results"></ul>-->
 
-{%- assign folio=site.portfolio | sort_natural: "date" | reverse -%}
+{%- assign folio=site.portfolio | sort_natural: "order" -%}
 {%- for post in folio -%}
   {% if post.tags contains "game" %}
     <article class="post-item">
