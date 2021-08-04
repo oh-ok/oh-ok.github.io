@@ -20,12 +20,14 @@ comments: false
 
 {%- assign folio=site.portfolio | sort_natural: "order" -%}
 {%- for post in folio -%}
-  {% if post.tags contains "motion" %}
-    <article class="post-item">
-      <h1 align="center" class="header-title">
-        <a align="center" href="{{ post.url }}">{{ post.title | escape }}
-      </h1>
-    </article>
-    <img src="{{ post.thumbnailUrl }}" alt="{{post.title}}" border=0/></a>
+  {% if post.hide != true %}
+    {% if post.tags contains "motion" %}
+      <article class="post-item">
+        <h1 align="center" class="header-title">
+          <a align="center" href="{{ post.url }}">{{ post.title | escape }}
+        </h1>
+      </article>
+      <img src="{{ post.thumbnailUrl }}" alt="{{post.title}}" border=0/></a>
+    {% endif %}
   {% endif %}
 {%- endfor -%}
