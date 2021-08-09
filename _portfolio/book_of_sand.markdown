@@ -16,14 +16,14 @@ My solution was a prototype of a 'book' featuring an infinite mirror illusion in
 
 My prototype was successful in showing the concept could work, however without the time and resources to further improve my prototype, I settled to creating some concept images in 3D software. 
 
-![](https://i.imgur.com/l9Y9kf1.png)
-*Type specifications*
+<img class="folio" src="https://i.imgur.com/l9Y9kf1.png">
+<p class=desc>Type specifications</p>
 
-![](https://i.imgur.com/TQooQkL.jpg)
-*This is how the infinite mirror works. There is a one way mirror on the front, with a regular mirror behind, the light then bounces around after getting "stuck" between the two mirrors creating a depth and repetitive illusion*
+<img class="folio" src="https://i.imgur.com/TQooQkL.jpg">
+<p class=desc>This is how the infinite mirror works. There is a one way mirror on the front, with a regular mirror behind, the light then bounces around after getting "stuck" between the two mirrors creating a depth and repetitive illusion</p>
 
-![](https://i.imgur.com/DQte1q2.png)
-*The book modelled in a 3D environment*
+<img class="folio" src="https://i.imgur.com/DQte1q2.png">
+<p class=desc>The book modelled in a 3D environment</p>
 
-![](https://i.imgur.com/rSP1tBV.jpg)
-*My (working) prototype*
+<img class="folio" src="https://i.imgur.com/rSP1tBV.jpg">
+<p class=desc>My (working) prototype</p>

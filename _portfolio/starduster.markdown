@@ -10,7 +10,7 @@ Starduster is a 2D local multiplayer head-to-head game about spring cleaning on 
 
 [Skip to the technical bits](#the-technical-bits)
 
-![Example of the looping world](https://storage.googleapis.com/portfolio_test/starduster/loop_example.gif)
+<img src="https://storage.googleapis.com/portfolio_test/starduster/loop_example.gif" class=folio>
 
 For this project I did the following:
 - Created some object sprites
@@ -26,7 +26,7 @@ This game was made in my own and others spare time over the course of three week
 
 In the game, you play as either Herbert (the pet), or Duster (the owner). Herbert's goal is to destroy every object he sees, while Duster's goal is to make sure that the house remains clean
 
-![Visual describer for the win conditions](https://storage.googleapis.com/portfolio_test/starduster/Describing.png)
+<img src="https://storage.googleapis.com/portfolio_test/starduster/Describing.png" class=folio>
 
 If you're interested in the development of the looping world and/or outline shader, then read [this blog post](/posts/2021-03-21-starduster), and you can find all of the [source code here](https://github.com/oh-ok/Greenhouse).
 
@@ -45,11 +45,11 @@ We plan on slowly updating Starduster to expand on it's current gameplay and to 
 
 There are many ways of creating outlines, especially on 2D objects, but due to the scale and scope of the project the decision was made to keep this element it simple and performant. We knew that we only ever wanted the outlines to be small.. well... outlines that highlight small objects around the main level. As a result, I created a simple shader which copies the silhouette of the sprite/texture in the 8 cardinal directions, creating the illusion of a growing stroke which compliments the pixel art-style.
 
-![](https://i.imgur.com/CypN0VC.gif)
-A gif showing the entire ShaderGraph in action.
+<img src="https://i.imgur.com/CypN0VC.gif" class=folio>
+<p class=desc>A gif showing the entire ShaderGraph in action.</p>	
 
-![](https://i.imgur.com/znELHY5.gif)
-A gif showing how the subgraph which creates and offsets the silhouette.
+<img src="https://i.imgur.com/znELHY5.gif" class=folio>
+<p class=desc>A gif showing how the subgraph which creates and offsets the silhouette.</p>
 
 Then in the object's update function, it will update it's material to one with the outline on it. This aspect could be optimised if there were intention to allow more than 2 players using Unity's in-built events, however during development we found they are somewhat unreliable. This approach also prevents the "scattering" of code relating to the interactive objects into other areas of the code-base - i.e. there's no event setup code relating to the interactive objects in the Player scripts. Only the object script handles it's own behavior. 
 
@@ -79,26 +79,26 @@ Finally, this approach also allows some customisation, the designer can create m
 ## Looping World
 
 ![](https://media.discordapp.net/attachments/814873327440756756/821866950245220432/bg_test1.gif)
-An showing how looping works with sketch art with obvious edges. 
+<p class=desc>A gif showing how looping works with sketch art with obvious edges. </p>
 
 The second and main problem I wanted to solve was the implementation of looping the world. This is quite common in platformers, but can be difficult to wrap your head around, [you basically want to make the world function like a torus](https://www.kotaku.com.au/2013/09/classic-jrpg-worlds-are-actually-donuts/) (or at the very least a cylindrical for horizontal only looping). Contemporary engines which focus on platformers (like Unity) don't have this functionality built-in, so we had to emulate it. 
 
-![](https://i.imgur.com/Gp9JUDl.png)
-A quick look a some of the objects that create this effect, note the "background", "LevelCam", "LoopLeft" and "LoopRight" objects. 
+<img src="https://i.imgur.com/Gp9JUDl.png" class=folio>
+<p class=desc>A quick look a some of the objects that create this effect, note the "background", "LevelCam", "LoopLeft" and "LoopRight" objects.</p>
 
 The basic premise of this solution is that we have two Render Textures either side of the level which is fed from a camera covering the entire playable level. Then once they have left the playable level (i.e. are deep enough in the render texture), they will be teleported seamlessly back onto the playable ("real") level. 
 
 ![](https://i.imgur.com/8fqTBhe.gif)
-One issue with this approach is that as they approach and pass the boundary, the moving player will leave the range of the camera and enter the render texture, from an observing player on the opposite side (at the "seam") they will disappear until teleported to their "true" position. 
+One issue with this approach is that as they approach and pass the boundary, the moving player will leave the range of the camera and enter the render texture, from an observing player on the opposite side (at the "seam") they will disappear until teleported to their "true" position.
 
 To rectify this issue, the level will then create a new object <sup>(obligatory *"yes pooling is more efficient, however it's not necessary for this small 2D project"*)</sup> which mimics the sprite of whatever is on top of it (including animation) and re-renders it at both ends of the level, so they are at worst, in-sync and can tell what's happening, and at best, completely seamless.
 
-![](https://i.imgur.com/XRkImKs.gif)
+<img src="https://i.imgur.com/XRkImKs.gif" class=folio>
 
-<video style="width:100%" autoplay loop controls=controls>
+<video style="width:auto; max-width:60vw; min-width:100%; position: relative; top:50%; left:50%; transform:translate(-50%,0);" autoplay loop controls=controls>
     <source src="https://i.imgur.com/Oos6p3V.mp4">
 </video>
-In this video the sprite shown as red when filled in by the script (make sure to watch fullscreen on desktop to see the left hand side properly!)
+<p class=desc>In this video the sprite shown as red when filled in by the script (make sure to watch fullscreen on desktop to see the left hand side properly!)</p>
 
 Here's some C# code that made this happen, it should be pretty simple to follow!
 

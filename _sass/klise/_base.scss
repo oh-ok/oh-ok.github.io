@@ -117,6 +117,21 @@ img {
   text-align: center;
 }
 
+.desc {
+  font-style:italic; 
+  text-align:center;
+}
+
+.folio {
+  width:auto;
+  max-width: 60vw;
+  min-width: 100%;
+  position: relative;
+  top:  50%;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+
 // Figure
 figure {
   position: relative;

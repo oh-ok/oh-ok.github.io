@@ -10,8 +10,8 @@ The idea for this project was that rice is most often sold in a single use plast
 
 Rice is also notoriously difficult to measure by eye, so I thought it would be nice if the packaging included some kind of portioning system. 
 
-![](https://storage.googleapis.com/portfolio_test/rice_jar/Boards-01.png)
+<img src="https://storage.googleapis.com/portfolio_test/rice_jar/Boards-01.png" class=folio>
 
-![](https://storage.googleapis.com/portfolio_test/rice_jar/Boards-02.png)
+<img src="https://storage.googleapis.com/portfolio_test/rice_jar/Boards-02.png" class=folio>
 
-![](https://storage.googleapis.com/portfolio_test/rice_jar/Boards-03.png)
+<img src="https://storage.googleapis.com/portfolio_test/rice_jar/Boards-03.png" class=folio>

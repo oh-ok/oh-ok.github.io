@@ -10,6 +10,6 @@ This is a short animation detailing the lives of the Wright Brothers and their g
 
 For this project I did the animation and some illustration
 
-<video controls="controls" style="width:100%;">
+<video controls="controls" style="width:auto; max-width:60vw; min-width:100%; position: relative; top:50%; left:50%; transform:translate(-50%,0);">
 	<source src="https://storage.googleapis.com/portfolio_test/wright_bros/Final%20Video.mp4" >
 </video>

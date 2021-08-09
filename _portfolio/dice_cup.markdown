@@ -12,20 +12,20 @@ I wasn't a huge fan of how their logo and website made them feel like an "underf
 
 This is a board game café, and as such the user experience is based around tabletop gaming tropes, character sheets, decks of cards, randomisation, shaking of dice, etc. 
 
-![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-01.png)
+<img src="https://storage.googleapis.com/portfolio_test/dice_cup/Board-01.png" class="folio">
 
-![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-02.png)
+<img src="https://storage.googleapis.com/portfolio_test/dice_cup/Board-02.png" class="folio">
 
-<video controls="controls" style="width:100%;">
+<video controls="controls" style="width:auto; max-width:60vw; min-width:100%; position: relative; top:50%; left:50%; transform:translate(-50%,0);">
     <source src="https://storage.googleapis.com/portfolio_test/dice_cup/web-demo.mp4">
 </video>
 
-![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-03.png)
+<img src="https://storage.googleapis.com/portfolio_test/dice_cup/Board-03.png" class=folio>
 
-![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-04.png)
+<img src="https://storage.googleapis.com/portfolio_test/dice_cup/Board-04.png" class=folio>
 
-![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-05.png)
+<img src="https://storage.googleapis.com/portfolio_test/dice_cup/Board-05.png" class=folio>
 
-![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-06.png)
+<img src="https://storage.googleapis.com/portfolio_test/dice_cup/Board-06.png" class=folio>
 
-![](https://storage.googleapis.com/portfolio_test/dice_cup/Board-07.png)
+<img src="https://storage.googleapis.com/portfolio_test/dice_cup/Board-07.png" class=folio>

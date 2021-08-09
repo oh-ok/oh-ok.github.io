@@ -8,7 +8,7 @@ order: 4
 
 Laika: Streets to Stars is a short narrative game detailing the life of the first animal to ever leave Earth's orbit, the struggles she likely faced, and her overall journey from living on the streets of Moscow, to becoming an martyr for the Soviet space program.
 
-![Hero Image]({{page.thumbnailUrl}})
+<img src="{{page.thumbnailUrl}}" class=folio>
 
 This is a concept project for my university which I'm in the process of making in my spare time. While it is not complete, this page and my blog will be updated as I progress with it. 
 

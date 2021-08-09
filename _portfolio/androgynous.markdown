@@ -7,7 +7,7 @@ tags: graphic motion
 order: 5
 ---
 
-![Hero Image]({{page.thumbnailUrl}})
+<img class="folio" src="{{page.thumbnailUrl}}">
 
 This is a project for D&AD competition in partnership with Google & HMCT to create a typography first campaign to celebrate a song/musician. 
 
@@ -15,14 +15,13 @@ Androgynous is a song by The Replacements about a gender non-conforming couple a
 
 As part of this I experimented lots with variable type as a subtle hint to the varying gender spectrum, but refrained from making it too cliché and refrained from typical gender signifiers (i.e. pink/blue colours to represent women/men)
 
-![Board 1](https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%201.png)
+<img class="folio" src="https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%201.png">
 
-![Board 2](https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%202.png)
+<img class="folio" src="https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%202.png">
 
-![Board 3](https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%203.png)
+<img class="folio" src="https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%203.png">
 
-Here's a video of the motion bits
-
-<video loop="true" controls="controls" style="width:100%">
+<video loop="true" controls="controls" style="width:auto; max-width:60vw; min-width:100%; position: relative; top:50%; left:50%; transform:translate(-50%,0);">
 	<source src="https://storage.googleapis.com/portfolio_test/androgynous/PUTPUT2_2.webm">
 </video>
+<p class=desc>Here's a video of the motion bits</p>
