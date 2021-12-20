@@ -20,19 +20,21 @@ comments: false
   {% if post.hide != true %}
     {% if post.tags contains "motion" %}
     <article class="post-item">
-      <h1 style="width:100%;" class="header-title">
-        <a style="width:100%" href="{{ post.url }}">
-        {{ post.title | escape }}
-        <div width=100% style="float: right;">
-        {% assign icons = post.sw | split: ", " %}
-        {% for icon in icons %}
-          <img class="logo" alt="{{icon}}" src="/assets/img/soft/{{ icon }}.svg" style="display:inline-flex; padding-left:3px; height: 18px; vertical-align: -5%;">
-        {% endfor %}
+      <div style="width:70%; display: inline; justify-items: left;">
+        <h1 class="header-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      </div>
+      <a href="{{ post.url }}" style="width:30%; display:inline; justify-items: right;">
+        <div id="logos" style="display:inline; justify-items: right;">
+          {% assign icons = post.sw | split: ", " %}
+          {% for icon in icons %}
+            <img class="logo" alt="{{icon}}" src="/assets/img/soft/{{ icon }}.svg" style="display:inline-flex; height: 24px; float: right; padding: 2px; padding-top: 40px;">
+          {% endfor %}
         </div>
-        </a>
-      </h1>
+      </a>
     </article>
-    <img src="{{ post.thumbnailUrl }}" alt="{{post.title}}" border=0/>
+    <a href="{{ post.url }}">
+      <img src="{{ post.thumbnailUrl }}" alt="{{post.title}}" border=0/>
+    </a>
     {% endif %}
   {% endif %}
 {%- endfor -%}

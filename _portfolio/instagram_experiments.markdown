@@ -4,7 +4,7 @@ date: '2021-11-27T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/ig_exp/Aperture%20Animation_2.gif'
 tags: graphic motion
 order: 6
-sw: "Ae, Ai, Ps, blender"
+sw: "Ae, Ai, Ps, Blender"
 ---
 
 I post lots of motion experiments on my [Instagram (@kieranrgeary)](https://www.instagram.com/kieranrgeary). Here's a selection of my favorites. 

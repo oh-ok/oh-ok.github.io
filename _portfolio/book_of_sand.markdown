@@ -4,7 +4,7 @@ date: '2021-01-12T00:00:00+00:00'
 thumbnailUrl: 'https://i.imgur.com/l9Y9kf1.png'
 tags: graphic
 order: 5
-sw: "In, Ai, blender"
+sw: "In, Ai, Blender"
 ---
 
 *'The Book of Sand'* is a short story by the legendary speculative fiction writer Jorge Luis Borges. I was tasked with designing a typesetting-oriented project which tried to communicate an aspect of it's messaging. 
