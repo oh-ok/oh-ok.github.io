@@ -24,7 +24,7 @@ comments: false
           <h1 style="width: 100%;" class="header-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
         </div>
         {% assign icons = post.sw | split: ", " %}
-          <div id="logos" style="min-width:{{ icons.size | times: 27 }}px; position: relative; display: inline-flex; right:0%;">
+          <div id="logos" style="min-width:{{ icons.size | times: 28 }}px; position: relative; display: inline-flex; right:0%;">
             <a href="{{ post.url }}">
             {% for icon in icons %}
               <img class="logo" alt="{{icon}}" src="/assets/img/soft/{{ icon }}.svg" style="display:inline-flex; height: 24px; position: relative; bottom: -35px;">
