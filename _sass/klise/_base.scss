@@ -381,3 +381,8 @@ mark,
     }
   }
 }
+
+//Portfolio logo icon things need to be filtered to the right colour
+.logo {
+  filter: invert(17%) sepia(82%) saturate(7499%) hue-rotate(230deg) brightness(99%) contrast(110%);
+}

@@ -5,11 +5,6 @@ layout: folio
 excerpt: All post.
 comments: false
 ---
-<img style="position: relative; top:-25px;" height="152px" src="https://storage.googleapis.com/portfolio_test/folio-picks-01.svg">
-
-<h1 align="center"><a href="/portfolio/motion/" id="button1">Motion</a> <a id="buttom1" href="/portfolio/">General</a> <a href="/portfolio/games/" id="button2">Games</a></h1>
-
-<p align="center">This is a few of my favorite pieces of work</p>
 
 <!--<div class="search-article">
   <label for="search-input" aria-hidden="true">
@@ -25,11 +20,21 @@ comments: false
   {% if post.hide != true %}
     {% if post.tags contains "graphic" %}
       <article class="post-item">
-        <h1 align="center" class="header-title">
-          <a align="center" href="{{ post.url }}">{{ post.title | escape }}
-        </h1>
+        <div style="width:70%; display: inline; justify-items: left;">
+          <h1 class="header-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        </div>
+        <a href="{{ post.url }}" style="width:30%; display:inline; justify-items: right;">
+          <div id="logos" style="display:inline; justify-items: right;">
+            {% assign icons = post.sw | split: ", " %}
+            {% for icon in icons %}
+              <img class="logo" alt="{{icon}}" src="/assets/img/soft/{{ icon }}.svg" style="display:inline-flex; height: 24px; float: right; padding: 2px; padding-top: 40px;">
+            {% endfor %}
+          </div>
+        </a>
       </article>
-      <img src="{{ post.thumbnailUrl }}" alt="{{post.title}}" border=0/></a>
+      <a href="{{ post.url }}">
+        <img src="{{ post.thumbnailUrl }}" alt="{{post.title}}" border=0/>
+      </a>
     {% endif %}
   {% endif %}
 {%- endfor -%}
