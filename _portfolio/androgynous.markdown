@@ -5,7 +5,7 @@ date: '2020-03-12T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/androgynous/Hero.png'
 tags: graphic motion
 order: 5
-sw: "Ae, Ai, Ps"
+sw: "Ae, Ai, Ps, js"
 ---
 
 <img class="folio" src="{{page.thumbnailUrl}}">

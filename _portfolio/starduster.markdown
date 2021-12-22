@@ -5,7 +5,7 @@ thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/starduster/Hero_Ima
 layout: post
 tags: game graphic
 order: 1
-sw: 'unity3d, Ai, Ps, Ae'
+sw: 'unity3d, Ps'
 ---
 Starduster is a 2D local multiplayer head-to-head game about spring cleaning on an alien planet! One person plays as a cat-like-creature on it's mission to create chaos, and their owner, the other player, tries to stop them by whatever means necessary!
 

@@ -4,7 +4,7 @@ date: '2021-06-16T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/dice_cup/Cover.png'
 tags: graphic motion
 order: 3
-sw: "Xd, Ai, Ps"
+sw: "Xd, Ai, Ae"
 ---
 
 The Dice Cup is Nottingham's go-to board game café, featuring hundreds of games in their library, and the option to bring your own along!
