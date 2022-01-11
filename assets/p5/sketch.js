@@ -48,24 +48,26 @@ class Orb {
 }
 
 const orbs = [];
-
+let pCanvas;
+let firstdraw=true;
 
 function setup() {
-  mouseX=width/2;
-  mouseY=height/2;
+  createCanvas(windowWidth,windowHeight);
+  mouseX=random(width/5,(4*width)/5);
+  mouseY=random(height/5,(4*height)/5);
   colorMode(RGB);
   frameRate(30);
-  createCanvas(600, 400);
-  textAlign(CENTER);
-  textFont(font);
-  textSize(80);
-  text("portfolio", width/2, height/2);
-  image(img1,width/2-140,height/2,800/3,300/3);
-
+  pCanvas = createGraphics(width, height);
+  draw();
+  pCanvas.textAlign(CENTER);
+  pCanvas.textFont(font);
+  pCanvas.textSize(80);
+  pCanvas.text("portfolio", width/2, height/2);
+  if (!(firefoxAgent = navigator.userAgent.indexOf("Firefox") > -1)) pCanvas.image(img1,width/3,2*height/4,width/3,height/6);
   let i=0;
   for (let x = 0; x < width; x+=2) {
     for (let y = 0; y < height; y+=2) {
-      pix=get(x,y);
+      pix=pCanvas.get(x,y);
       let c = color(pix[0],pix[1],pix[2], pix[3]);
       if (pix[3]>0) {
         orbs[i]=new Orb(x,y,c,2);
@@ -78,6 +80,11 @@ print(mouseY);
 }
 
 function draw() {
+  if (firstdraw) {
+    firstdraw=false;
+    return;
+  }
+
   if (frameCount<30) background(lerpColor(color(15,38,30,0), color(255,82,119,255), frameCount/30));
   else background(255,82, 119);
 
