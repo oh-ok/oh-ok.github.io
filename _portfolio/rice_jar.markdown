@@ -3,7 +3,7 @@ title: Just Rice - JDO Raw
 date: '2021-06-16T00:00:00+00:00'
 thumbnailUrl: 'https://storage.googleapis.com/portfolio_test/rice_jar/JDO-Cover.png'
 tags: graphic
-order: 6
+order: 3
 sw: "Blender, Ps, Ai"
 ---
 
@@ -16,3 +16,7 @@ Rice is also notoriously difficult to measure by eye, so I thought it would be n
 <img src="https://storage.googleapis.com/portfolio_test/rice_jar/Boards-02.png" class=folio>
 
 <img src="https://storage.googleapis.com/portfolio_test/rice_jar/Boards-03.png" class=folio>
+
+<img src="https://storage.googleapis.com/portfolio_test/rice_jar/Boards-04.png" class=folio>
+
+<img src="https://storage.googleapis.com/portfolio_test/rice_jar/Boards-05.png" class=folio>

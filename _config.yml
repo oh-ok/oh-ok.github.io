@@ -1,7 +1,7 @@
 # Site settings
 title: Kieran Geary's Design Blog & Portfolio # site title
 description: >- # site description
-  I'm Kieran, this is a blog about Graphic Design, Game Design and Film (as well as whatever else I'm liking at the time)
+    Hi, I'm Kieran - an award winning designer based in London - and I make things with code & keyframes!
 lang: en-GB # default lang
 timezone: Europe/London # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Kieran Geary  # author name
   bio: >- # tell to the world
-    I'm Kieran, this is a blog about Graphic Design, Game Design and Film (as well as whatever else I'm liking at the time)
+    Hi, I'm Kieran - an award winning designer based in London - and I make things with code & keyframes!
   username: username # general username
   github: oh-ok # github username
   twitter: kierangeary # twitter username
