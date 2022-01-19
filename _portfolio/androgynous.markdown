@@ -22,6 +22,8 @@ As part of this I experimented lots with variable type as a subtle hint to the v
 
 <img class="folio" src="https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%203.png">
 
+<img class="folio" src="https://storage.googleapis.com/portfolio_test/androgynous/A3%20Board%204.png">
+
 <video loop="true" controls="controls" style="width:auto; max-width:60vw; min-width:100%; position: relative; top:50%; left:50%; transform:translate(-50%,0);">
 	<source src="https://storage.googleapis.com/portfolio_test/androgynous/PUTPUT2_2.webm">
 </video>
