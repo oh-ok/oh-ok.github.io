@@ -1,4 +1,4 @@
-let drawFPS=false;
+let drawFPS=true;
 let font, img1, img2, img3, img4, img5;
 // I don't think I'm ever using this, but its here anyway
 function onError(err) {
@@ -13,6 +13,7 @@ function checkLoaded() {
 
 let drawX
 function setup() {
+  frameRate(120);
   mouseX, mouseY = width/2;
   drawX=width/4;
   createCanvas(windowWidth,windowHeight, WEBGL);
@@ -52,12 +53,39 @@ class Orb {
     this.x-=2*(this.x-this.oxpos)/amount;
     this.y-=2*(this.y-this.oypos)/amount;
   }
-  avoid_mouse(amount, factor) {
-    let distance;
-    distance = dist((mouseX-(width/2)),(mouseY-(height/2)), this.x, this.y);
-    this.x-=((mouseX-(width/2))-this.x)/distance*factor;
-    this.y-=((mouseY-(height/2))-this.y)/distance*factor;
+  avoid_mouse(factor) {
+    let distanceSq;
+    distanceSq = distSq((mouseX-(width/2)),(mouseY-(height/2)), this.x, this.y);
+    let dista=sqroot(distanceSq);
+    this.x-=(mToZero("x")-this.x)/(dista*factor);
+    this.y-=(mToZero("y")-this.y)/(dista*factor);
   }
+}
+
+function mToZero(type) {
+  switch (type) {
+    case "x": // Then x & width
+      return mouseX-(width/2);
+    case "y":
+      return mouseY-(height/2);
+    default:
+      return console.log("ERROR, mToZero passed ", type);
+  }
+}
+
+function distSq(x1, y1, x2, y2) {
+  //a,sq + b,sq = c,sq
+  return sq(x1 - x2) + sq(y1 - y2);
+}
+
+function sqroot(number) {
+  var lo = 0, hi = number;
+  while(lo <= hi) {
+       var mid = Math.floor((lo + hi) / 2);
+       if(mid * mid > number) hi = mid - 1;
+       else lo = mid + 1;
+  }
+  return hi;
 }
 
 let pg;
@@ -105,7 +133,7 @@ function generateOrbs(x , y) {
 
 
 let cRotRate=0;
-
+let lastFrameRate;
 function draw() {
   //### UNLOADED DRAWING
 
@@ -152,12 +180,17 @@ function draw() {
     textAlign(LEFT);
     fill(0);
     textFont(font);
-    text(int(frameRate()),20-(width/2),20-(height/2));  
+    if (frameCount % 4 == 0) { 
+      lastFrameRate=frameRate();
+      text(int(frameRate()),20-(width/2),20-(height/2));
+    } else {
+      text(int(lastFrameRate),20-(width/2),20-(height/2));
+    }
   }
 
   //Draw the orbs
   for (let i = 0; i < orbs.length; i++) {
-    orbs[i].avoid_mouse(width/2, 1);
+    orbs[i].avoid_mouse(0.8);
     orbs[i].converge(80);
     orbs[i].display();
   }
