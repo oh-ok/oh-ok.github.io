@@ -1,11 +1,11 @@
-let drawFPS=false;
+let drawFPS=true;
 let font, img1, img2, img3, img4, img5;
 // I don't think I'm ever using this, but its here anyway
 function onError(err) {
   print(err);
 }
 // Checks how many things are loaded
-let numToLoad=7;
+let numToLoad=1;
 function checkLoaded() {
   numToLoad-=1;
 }
@@ -19,12 +19,6 @@ function setup() {
   createCanvas(windowWidth,windowHeight, WEBGL);
   print(increment=Math.ceil(width/400));
   font = loadFont('PTSerif-Bold.ttf', checkLoaded);
-  cursorImg = loadImage('img/cur.svg', checkLoaded);
-  img1 = loadImage('img/img1.svg', checkLoaded);
-  img2 = loadImage('img/img2.jpg', checkLoaded);
-  img3 = loadImage('img/img3.jpg', checkLoaded);
-  img4 = loadImage('img/img4.jpg', checkLoaded);
-  img5 = loadImage('img/img5.jpg', checkLoaded);
 }
 
 
@@ -98,11 +92,11 @@ function drawToGraphics(image) {
   pg.textAlign(CENTER);
   pg.textSize(width/10);
   pg.fill(255);
-  pg.text("portfolio",0,-textSize()*0.5);
-  pg.imageMode(CENTER);
-  if (!(firefoxAgent = navigator.userAgent.indexOf("Firefox") > -1)) {
-    pg.image(image,-0.5,pg.textSize()*0.8,textSize()*33,textSize()*11);
-  }
+  pg.text("kieran geary",0,-textSize()*0.5);
+  // pg.imageMode(CENTER);
+  // if (!(firefoxAgent = navigator.userAgent.indexOf("Firefox") > -1)) {
+  //   pg.image(image,-0.5,pg.textSize()*0.8,textSize()*33,textSize()*11);
+  // }
   pg.loadPixels();
   frame=pg.pixels;
   pgDrawn=true;
@@ -165,12 +159,12 @@ function draw() {
 
 
   //Set the background to be the hero images when hovered in the corners
-  imageMode(CENTER);
-  if (mouseX==50 && mouseY==50) true;
-  else if (mouseX<1*width/3 && mouseY<height/4) image(img2, 0,0,(height/960)*1920,height);
-  else if (mouseX<3*width/3 && mouseY<height/4) image(img3, 0,0,(height/960)*1920,height);
-  else if (mouseX<1*width/3 && mouseY>3*height/4) image(img4, 0,0,(height/960)*1920,height);
-  else if (mouseX<3*width/3 && mouseY>3*height/4) image(img5, 0,0,(height/960)*1920,height);
+  // imageMode(CENTER);
+  // if (mouseX==50 && mouseY==50) true;
+  // else if (mouseX<1*width/3 && mouseY<height/4) image(img2, 0,0,(height/960)*1920,height);
+  // else if (mouseX<3*width/3 && mouseY<height/4) image(img3, 0,0,(height/960)*1920,height);
+  // else if (mouseX<1*width/3 && mouseY>3*height/4) image(img4, 0,0,(height/960)*1920,height);
+  // else if (mouseX<3*width/3 && mouseY>3*height/4) image(img5, 0,0,(height/960)*1920,height);
   
 
   // Draw the FPS counter
@@ -196,18 +190,18 @@ function draw() {
   }
 
   //### MOUSE STYLING
-  const margin=0.95;
-  if (mouseX>(width*margin) || mouseX<width-(width*margin) || mouseY>height*margin || mouseY<height-(height*margin)) return;
+  // const margin=0.95;
+  // if (mouseX>(width*margin) || mouseX<width-(width*margin) || mouseY>height*margin || mouseY<height-(height*margin)) return;
 
-  push();
-  cRotRate=-(millis()/2000)*PI;
-  cursor(CROSS, 16, 16);
-  translate(mouseX-(width/2), mouseY-(height/2));
-  rotate(cRotRate);
-  blendMode(EXCLUSION);
-  image(cursorImg, 0, 0, 75, 75);
-  blendMode(BLEND);
-  pop();
+  // push();
+  // cRotRate=-(millis()/2000)*PI;
+  // cursor(CROSS, 16, 16);
+  // translate(mouseX-(width/2), mouseY-(height/2));
+  // rotate(cRotRate);
+  // blendMode(EXCLUSION);
+  // image(cursorImg, 0, 0, 75, 75);
+  // blendMode(BLEND);
+  // pop();
   }
 }
 
