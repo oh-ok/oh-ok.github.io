@@ -1,4 +1,4 @@
-let drawFPS=true;
+let drawFPS=false;
 let font, img1, img2, img3, img4, img5;
 // I don't think I'm ever using this, but its here anyway
 function onError(err) {
