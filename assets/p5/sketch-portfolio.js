@@ -17,8 +17,9 @@ function setup() {
   mouseX, mouseY = width/2;
   drawX=width/4;
   createCanvas(windowWidth,windowHeight, WEBGL);
-  print(increment=Math.ceil(width/400));
+  increment=Math.ceil(width/400);
   font = loadFont('PTSerif-Bold.ttf', checkLoaded);
+
 }
 
 
@@ -86,6 +87,7 @@ let pg;
 let pgDrawn = false;
 let frame;
 function drawToGraphics(image) {
+  pgDrawn=true;
   pg = createGraphics(width,height,WEBGL);
   if (orbs.length!=0) return true;
   pg.textFont(font);
@@ -99,7 +101,6 @@ function drawToGraphics(image) {
   // }
   pg.loadPixels();
   frame=pg.pixels;
-  pgDrawn=true;
 }
 
 let orbs = [];
@@ -207,9 +208,9 @@ function draw() {
 
 
 //Open the portfolio page when clicked on
-function mouseClicked() {
-  open('/portfolio/');
-}
+// function mouseClicked() {
+//   open('/portfolio/');
+// }
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
